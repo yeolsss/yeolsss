@@ -17,12 +17,8 @@ Here are some ideas to get you started:
 
 ## 📕 Skills
 - **Programing**
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
-<img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://camo.githubusercontent.com/d4f4dbffb8bac36f201e5ed4d1ac9f5279f6e261c2d7eaf5e7c68255c5b18dfa/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176612d4646463f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661" alt="Java" data-canonical-src="https://img.shields.io/badge/Java-FFF?style=for-the-badge&amp;logo=java" style="max-width: 100%;">
-- **library**       
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"><img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"><img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white"><img src="https://camo.githubusercontent.com/d4f4dbffb8bac36f201e5ed4d1ac9f5279f6e261c2d7eaf5e7c68255c5b18dfa/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176612d4646463f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661" alt="Java" data-canonical-src="https://img.shields.io/badge/Java-FFF?style=for-the-badge&amp;logo=java" style="max-width: 100%;">
+**library**       
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white">
 
 --- 
