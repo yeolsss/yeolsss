@@ -30,8 +30,8 @@ Here are some ideas to get you started:
 ---
 
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/yeolsss?pet-id=1161" width="1000" height="120"/>
+  <img src="https://render.gitanimals.org/lines/yeolsss?pet-id=1161" style="max-width: 100%" width="1000" height="120"/>
 </a>
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/yeolsss"/>
+  <img src="https://render.gitanimals.org/farms/yeolsss" style="max-width: 100%"/>
 </a>
