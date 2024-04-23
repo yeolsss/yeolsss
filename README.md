@@ -26,13 +26,19 @@ Here are some ideas to get you started:
 -->
 --- 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeolsss&show_icons=true&theme=radical)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=yeolsss&show_icons=true&theme=radical"/>
+</p>
+
 
 ---
-
-<a href="https://github.com/devxb/gitanimals" style="margin: auto">
-  <img src="https://render.gitanimals.org/lines/yeolsss?pet-id=1161" style="max-width: 100%" width="1000" height="120"/>
+<p align="center">
+<a href="https://github.com/devxb/gitanimals" style="margin: auto;">
+  <img src="https://render.gitanimals.org/lines/yeolsss?pet-id=1161"  width="1000" height="120"/>
 </a>
+</p>
+<p align="center">
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/yeolsss" style="max-width: 100%"/>
 </a>
+</p>
