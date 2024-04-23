@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 ---
 
-<a href="https://github.com/devxb/gitanimals">
+<a href="https://github.com/devxb/gitanimals" style="margin: auto">
   <img src="https://render.gitanimals.org/lines/yeolsss?pet-id=1161" style="max-width: 100%" width="1000" height="120"/>
 </a>
 <a href="https://github.com/devxb/gitanimals">
