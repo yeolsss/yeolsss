@@ -35,10 +35,11 @@ Here are some ideas to get you started:
 <p align="center">
   
 <a href="https://github.com/devxb/gitanimals" style="margin: auto;">
-  <img src="https://render.gitanimals.org/lines/yeolsss?pet-id=596620624506145324"  width="1000" height="120"/>
+  <img src="https://render.gitanimals.org/lines/yeolsss?pet-id=600644717403140759"  width="1000" height="120"/>
 </a>
 </p>
 <p align="center">
+  
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/yeolsss" style="max-width: 100%"/>
 </a>
