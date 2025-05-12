@@ -24,14 +24,16 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white">
   <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
 -->
---- 
-
+ 
+<!--
+---
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=yeolsss&show_icons=true&theme=radical"/>
 </p>
-
-
 ---
+-->
+
+
 <p align="center">
   
 <a href="https://github.com/devxb/gitanimals" style="margin: auto;">
